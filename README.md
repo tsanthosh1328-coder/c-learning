@@ -15,6 +15,13 @@ This repository contains my practice code for each lesson. I am learning C durin
 
 ---
 
+## Acknowledgements
+
+- **Bro Code** — for the clear and beginner-friendly tutorial series
+- **Claude (Anthropic)** — for helping me create structured notes and guiding me through Git & GitHub setup
+
+---
+
 > *"The only way to learn a new programming language is by writing programs in it."*
 > — Dennis Ritchie, creator of C
 
