@@ -19,19 +19,19 @@ int main() {
     scanf("%d", &grade);
     
     printf("Enter subject 1 : ");
-    scanf("%s", &subject1);
+    scanf(" %s", &subject1);
 
     printf("Enter score 1: ");
     scanf("%d", &score1);
 
     printf("Enter subject 2 : ");
-    scanf("%s", &subject2);
+    scanf(" %s", &subject2);
 
     printf("Enter score 2: ");
     scanf("%d", &score2);
 
     printf("Enter subject 3 : ");
-    scanf("%s", &subject3);
+    scanf(" %s", &subject3);
 
     printf("Enter score 3: ");
     scanf("%d", &score3);
